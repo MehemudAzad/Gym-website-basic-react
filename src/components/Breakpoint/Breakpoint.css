@@ -1,0 +1,14 @@
+.break-time{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    border-radius: .7rem;
+    margin-bottom: 4.5rem;
+}
+.break-time-count{
+    color: rgb(130, 128, 128);
+}
+.break-time p{
+    font-weight: 600;
+}

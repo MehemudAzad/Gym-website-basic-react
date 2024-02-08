@@ -1,0 +1,15 @@
+.exercise-time{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+    border-radius: .7rem;
+    color: #000;
+}
+.exercise-time p{
+    font-weight: 600;
+}
+.exercise-time-count{
+    color: rgb(130, 128, 128);
+}

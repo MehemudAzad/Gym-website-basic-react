@@ -1,0 +1,51 @@
+[
+    {
+        
+        "id": "633579f115280ba48121bf19",
+        "img":"https://manofmany.com/wp-content/uploads/2020/07/Best-Dumbbell-Exercises-For-Men.jpg",
+        "name": "dumbles",
+        "age": "20-25",
+        "time":30,
+        "quantity":0
+    },
+    {
+        "id": "633579f186495d3e6ff7ca7d",
+        "img":"https://img.redbull.com/images/c_crop,w_7000,h_3500,x_0,y_0,f_auto,q_auto/c_scale,w_1200/redbullcom/2020/7/8/xpy3b7d1oqqkjp41bixb/ryan-pessoa-cycle-training",
+        "name": "cycling",
+        "age": "15-25",
+        "time":25,
+        "quantity":0
+    },
+    {
+        "id":"633579f14837f6e8df14056e",
+        "img":"https://phantom-marca.unidadeditorial.es/efa9740df47cff7f9466ea78fd720074/crop/0x93/899x599/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/19/16426036798831.jpg",
+        "name": "pushups",
+        "age": "20-35",
+        "time":40,
+        "quantity":0
+    },
+    {
+        "id":"633579f1e9a895037c41281c",
+        "img":"https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/05/man-squatting-outdoors-1296x728-header.jpg?w=1155&h=1528",
+        "name": "Squats",
+        "age": "20-45",
+        "time":50,
+        "quantity":0
+    },
+    {
+        "id":"633579f1008826fbcec9f98a",
+        "img":"https://experiencelife.lifetime.life/wp-content/uploads/2021/03/The_Lunge-1280x720.jpg",
+        "name": "Lunge",
+        "age": "10-30",
+        "time":60,
+        "quantity":0
+    },
+    {
+        "id":"633579f11c2122508f0bd75d",
+        "img":"https://cdn.mos.cms.futurecdn.net/TYXsH5YWNe4D7TVQvtNYSU-1200-80.jpg",
+        "name": "Bench press",
+        "age": "20-35",
+        "time":90,
+        "quantity":0
+    }
+]
